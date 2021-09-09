@@ -1,0 +1,100 @@
+.pmr h3 {
+  background-color: aqua;
+  padding: 30px;
+  font-size: 30px;
+  font-weight: bold;
+  color: green;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+.sejarahpmr h3 {
+  margin-top: 50px;
+  margin-left: 100px;
+  font-weight: bold;
+}
+.sejarahpmr p {
+  margin-left: 100px;
+  font-family: Fira Sans;
+  font-style: italic;
+}
+.visipmr h3 {
+  margin-left: 100px;
+  font-weight: bold;
+}
+.visipmr p {
+  text-align: center;
+  font-size: 27px;
+  font-family: Concert One;
+  margin-left: 34px;
+}
+.misipmr h3 {
+  margin-left: 100px;
+  font-weight: bold;
+}
+.misipmr p {
+  margin-left: 100px;
+  font-family: Fira Sans;
+  font-style: italic;
+}
+.programkerjapmr h3 {
+  margin-left: 100px;
+  font-weight: bold;
+}
+.programkerjapmr p {
+  margin-left: 100px;
+  font-family: Fira Sans;
+  font-style: italic;
+}
+.dokumentasipmr h3 {
+  margin-left: 100px;
+  font-weight: bold;
+}
+.dokumentasipmr img {
+  margin-left: 100px;
+}
+/* footer */
+.text img {
+  padding-top: 20px;
+  margin-left: 60px;
+}
+.text {
+  margin-top: 40px;
+  padding-bottom: 50px;
+  color: white;
+}
+.text h3 {
+  margin-left: 140px;
+  margin-top: -50px;
+}
+.text p {
+  margin-left: 140px;
+  margin-top: 5px;
+}
+.col ul i {
+  margin-left: 10px;
+}
+.icon {
+  margin-left: 87px;
+}
+.col ul a {
+  display: block;
+}
+.contact {
+  margin-left: 500px;
+  margin-top: -138px;
+}
+.contact a {
+  color: white;
+}
+.contact a i {
+  padding: 15px;
+}
+.copyright {
+  background-color: rgb(11, 11, 114);
+  width: 100%;
+  height: 50px;
+  color: white;
+}
+.copyright h5 {
+  padding-top: 10px;
+}
